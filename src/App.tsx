@@ -101,7 +101,7 @@ const App: React.FC = () => {
               <div className="">
                 <div className="mb-2">
                   <div className="mb-1">
-                    <label>Objects</label>
+                    <label>Objects(Object)</label>
                   </div>
                   <div>
                     <select

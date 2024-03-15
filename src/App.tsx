@@ -78,7 +78,7 @@ const App: React.FC = () => {
   return (
     <main>
       <div className="p-36 w-[50%] m-auto">
-        <div className="mb-8">
+        <div className="mb-4">
           <h3 className="text-xl font-bold">LOS 132Addddmi22nistrator</h3>
         </div>
         <form method="POST" action="" onSubmit={handleSubmit}>

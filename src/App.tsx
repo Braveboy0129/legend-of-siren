@@ -86,7 +86,7 @@ const App: React.FC = () => {
             <div>
               <h4 className="text-lg mb-2">Upd3a333te new dsers</h4>
               <p className="mb-2">
-                Please update variables for folldowing users asdasdfasd3e1
+                Please update variab3les for folldowing users asdasdfasd3e1
               </p>
             </div>
             <div className="mb-2">

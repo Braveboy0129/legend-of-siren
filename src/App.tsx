@@ -84,7 +84,7 @@ const App: React.FC = () => {
         <form method="POST" action="" onSubmit={handleSubmit}>
           <div className="rounded-lg border border-slate-500 mb-2 p-8">
             <div>
-              <h4 className="text-lg mb-2">Upd3a333te new dsers</h4>
+              <h4 className="text-lg mb-2">Update new dsers</h4>
               <p className="mb-2">
                 Please update variab3les for folldowing users asdasdfasd3e1
               </p>

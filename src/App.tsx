@@ -79,7 +79,7 @@ const App: React.FC = () => {
     <main>
       <div className="p-36 w-[50%] m-auto">
         <div className="mb-8">
-          <h3 className="text-xl font-bold">LOS Administrator Panel</h3>
+          <h3 className="text-xl font-bold">LOS Administrator Main Panel</h3>
         </div>
         <form method="POST" action="" onSubmit={handleSubmit}>
           <div className="rounded-lg border border-slate-500 mb-2 p-8">

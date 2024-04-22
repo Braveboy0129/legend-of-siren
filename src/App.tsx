@@ -78,8 +78,8 @@ const App: React.FC = () => {
   return (
     <main>
       <div className="p-36 w-[50%] m-auto">
-        <div className="mb-4">
-          <h3 className="text-xl font-bold">LOS Admedi</h3>
+        <div className="mb-8">
+          <h3 className="text-xl font-bold">LOS Administrator AMain Panel</h3>
         </div>
         <form method="POST" action="" onSubmit={handleSubmit}>
           <div className="rounded-lg border border-slate-500 mb-2 p-8">

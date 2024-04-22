@@ -78,15 +78,10 @@ const App: React.FC = () => {
   return (
     <main>
       <div className="p-36 w-[50%] m-auto">
-        <div className="mb-4">
-          <h3 className="text-xl font-bold">LOS Administrator</h3>
-        </div>
-        <form method="POST" action="" onSubmit={handleSubmit}>
-          <div className="rounded-lg border border-slate-500 mb-2 p-8">
-            <div>
-              <h4 className="text-lg mb-2">Update Users</h4>
+        <div className="mb-8">
+          <h3 className="text-xl font-bold">LOS Administrator AMain Panel</h3>
               <p className="mb-2">
-                Please update variables for following users asdasdfasd3e1
+                Please update variab3les s asdasdfasd3e1
               </p>
             </div>
             <div className="mb-2">
